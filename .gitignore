@@ -3,3 +3,4 @@
 venv
 *.pyc
 deploy/__pycache__/
+energy.pem
